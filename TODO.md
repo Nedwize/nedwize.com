@@ -1,0 +1,2 @@
+-   [ ] Setup Linter
+-   [ ] IDEA: A checker mesh like background with lightgray borders
